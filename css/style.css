@@ -531,7 +531,7 @@ body {
     margin-top: 2.85em;
     text-align: center;
 }
-
+/* </FOOTER> */
 @media (max-width: 1280px) {
     .cadillac__car {
         margin: 5em auto;
@@ -711,7 +711,7 @@ body {
     }
 
     .menu__item {
-        flex: 0 0 30%;
+        flex: 1 0 20%;
     }
 
     .like,
@@ -787,5 +787,3 @@ body {
     }
 
 }
-
-/* </FOOTER> */
